@@ -46,7 +46,11 @@ p {
 
 /*----SECTIONS----*/
 
-header {
+header a {
+  
+}
+
+header a:hover {
   
 }
 
